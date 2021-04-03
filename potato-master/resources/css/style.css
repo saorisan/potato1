@@ -1,0 +1,67 @@
+body {
+  font-family: "Work Sans", sans-serif;
+  font-size: 16px;
+  margin: auto;
+}
+
+.navbar {
+
+   min-height: 45px;
+   border-bottom: solid 1px lightgray;
+}
+
+#favicon li{
+  display: inline-block;
+  padding: 1rem;
+}
+
+#grilled {
+  background-image: url("../images/PCCrispyPotatoes01-800-Optimized.jpg");
+  background-position: center;
+  background-size: cover;
+  min-height: 400px;
+}
+
+.container-fluid#jumbotron {
+
+  font-family: 'Amatic SC', cursive;
+  color: white;
+  padding: 3rem;
+  text-align: right;
+
+}
+h3 {
+  font-size: 6rem;
+  margin-top: 100px;
+}
+
+.container-fluid#main-container {
+  margin: 2rem;
+}
+
+.photos {
+
+ margin-top: 2rem;
+}
+
+
+
+.container-fluid#main-container p {
+  font-size: 1.3rem;
+  line-height: 2rem;
+  color: gray;
+  margin: 3rem;
+}
+
+.footer .container {
+  border-top: solid 1px gray;
+  padding: 3rem 0 3rem 0;
+}
+
+#article p#tap {
+  color: black;
+  font-family: 'Amatic SC', cursive;
+  font-size: 1.8rem;
+
+  letter-spacing: 0.4rem;
+}
